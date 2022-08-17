@@ -1,0 +1,7 @@
+
+# Editor
+.idea
+
+# go module
+go.mod
+go.sum
